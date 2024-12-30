@@ -1,7 +1,0 @@
-some text just to show
-what happens when we split by
-word and to see if we can
-work with it
-
-This file is not very long but
-it does have some duplicate words
